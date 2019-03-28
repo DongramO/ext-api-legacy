@@ -1,0 +1,2 @@
+exports.dbConnection = require('./connectdb')
+
